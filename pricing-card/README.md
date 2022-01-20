@@ -1,0 +1,1 @@
+https://www.uidesigndaily.com/posts/figma-pricing-card-day-1454

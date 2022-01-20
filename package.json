@@ -1,0 +1,25 @@
+{
+  "name": "css-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seilagamo/css-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seilagamo/css-exercises/issues"
+  },
+  "homepage": "https://github.com/seilagamo/css-exercises#readme",
+  "devDependencies": {
+    "stylelint": "^14.2.0",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-standard": "^24.0.0",
+    "stylelint-order": "^5.0.0"
+  }
+}
