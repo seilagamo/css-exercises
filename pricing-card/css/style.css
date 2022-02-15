@@ -54,15 +54,10 @@ h2 {
     display: flex;
     /* flex-wrap: wrap; */
     flex-grow: 1;
-    /* flex-basis: auto; */
-    /* flex-shrink: 1; */
-    /* width: 80%; */
-    /* height: 544px; */
-    /* max-width: 1098px; */
+    flex-shrink: 1;
     gap: 45px;
     background: rgba(255, 255, 255, 0.7);
     border: 20px solid #FFFFFF;
-    /* box-sizing: border-box; */
     border-radius: 30px;
     transform: translate(-50%, -50%);
 }
