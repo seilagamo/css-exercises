@@ -108,9 +108,10 @@ h2 {
 }
 
 .button {
-    position: absolute;
+    /* position: absolute;
     bottom: 60px;
-    left: 60px;
+    left: 60px; */
+    display: inline-block;
     padding: 20px;
     color: #000000;
     font-weight: 500;
@@ -132,4 +133,10 @@ h2 {
 
 .premium {
     background: #FFDDB6;
+}
+
+@media (max-width: 1400px) {
+    .pricing-card {
+        padding: 60px 10px;
+    }
 }
