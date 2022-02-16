@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/seilagamo/css-exercises#readme",
   "devDependencies": {
-    "stylelint": "^14.2.0",
+    "stylelint": "^14.5.1",
     "stylelint-config-rational-order": "^0.1.2",
-    "stylelint-config-standard": "^24.0.0",
+    "stylelint-config-standard": "^25.0.0",
     "stylelint-order": "^5.0.0"
   }
 }
