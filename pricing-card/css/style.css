@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
 html,
 body {
+    box-sizing: border-box;
     height: 100%;
     margin: 0;
     overflow: hidden;
@@ -56,6 +57,7 @@ h2 {
     flex-grow: 1;
     flex-shrink: 1;
     gap: 45px;
+    padding: 70px;
     background: rgba(255, 255, 255, 0.7);
     border: 20px solid #FFFFFF;
     border-radius: 30px;
@@ -66,7 +68,6 @@ h2 {
     position: relative;
     min-width: 276px;
     min-height: 364px;
-    padding: 60px;
     color: #141843;
 }
 
@@ -133,10 +134,4 @@ h2 {
 
 .premium {
     background: #FFDDB6;
-}
-
-@media (max-width: 1400px) {
-    .pricing-card {
-        padding: 60px 10px;
-    }
 }
